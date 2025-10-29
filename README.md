@@ -53,5 +53,5 @@ The game includes an **AI opponent** based on the **Minimax algorithm**, a class
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/amazons-game.git
+   git clone https://github.com/rtektas/Amazone-game-ULB.git
    cd amazons-game
