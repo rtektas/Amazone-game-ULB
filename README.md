@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="choix1.png" alt="Amazons Game Screenshot" width="400">
+  <img src="choix2.png" alt="Amazons Game Screenshot" width="400">
 </p>
 
 This project was developed at **Université libre de Bruxelles (ULB)** as part of the **INFO-F106** course.  
