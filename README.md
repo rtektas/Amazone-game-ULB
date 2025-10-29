@@ -1,4 +1,4 @@
-# Amazons Board Game 🎯
+# 🎯 Amazons Board Game 
 
 <p align="center">
   <img src="choix1.png" alt="Amazons Game Screenshot" width="400">
